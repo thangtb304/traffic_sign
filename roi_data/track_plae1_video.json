@@ -1,0 +1,32 @@
+[
+    {
+        "type": "polygon",
+        "roi": {
+            "0": {
+                "vertices": [
+                    [
+                        549,
+                        463
+                    ],
+                    [
+                        916,
+                        467
+                    ],
+                    [
+                        920,
+                        613
+                    ],
+                    [
+                        515,
+                        613
+                    ],
+                    [
+                        519,
+                        480
+                    ]
+                ]
+            }
+        },
+        "camera": "resources/videos_check_plates/plate1.mp4"
+    }
+]
